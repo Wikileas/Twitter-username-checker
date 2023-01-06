@@ -1,2 +1,21 @@
-# Twitter-username-checker
-Twitter username checker using asyncio and aiohttp, multithreads and loading files in a batch to make code fast.
+
+# Install
+
+```#Clone this repo:
+git clone https://github.com/Wikileas/Twitter-username-checker/
+#Change directories:
+cd Badbird
+#Install requirements
+pip install -r requirements.txt
+```
+
+## Mastermind
+This is Twitter username checker, optimized the most by my tiny little knowledge, to load things fast, and do requests faster. Modify with proxies if you want to, but it will for sure consume your proxies rather quickly.
+
+## How to use
+
+Just run the following command: `python3 twitter.py` OR `python twitter.py`
+
+## Anaconda
+
+If you are using Anaconda, this being in Windows, using `python3` might not work, try using `python` instead.
