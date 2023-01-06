@@ -14,7 +14,7 @@ This is Twitter username checker, optimized the most by my tiny little knowledge
 
 ## How to use
 
-Just run the following command: `python3 twitter.py` OR `python twitter.py`
+Just run the following command: `python3 twitter.py` OR `python twitter.py` and load up usernames you desire to check into the `usernames.txt` file.
 
 ## Anaconda
 
