@@ -9,7 +9,7 @@ cd Badbird
 pip install -r requirements.txt
 ```
 
-## Mastermind
+## About it
 This is Twitter username checker, optimized the most by my tiny little knowledge, to load things fast, and do requests faster. Modify with proxies if you want to, but it will for sure consume your proxies rather quickly.
 
 ## How to use
