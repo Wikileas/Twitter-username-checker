@@ -35,7 +35,7 @@ async def main():
     with open('usernames.txt') as f:
         usernames = f.read().splitlines()
     # check usernames in batches of 10
-    for i in range(0, len(usernames), 10):
+    for i in range(0, len(usernames), 1):
         await check_batch(usernames[i:i+1])
 
 asyncio.run(main())
